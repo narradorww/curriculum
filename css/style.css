@@ -300,7 +300,7 @@ article:not(:last-of-type) {
 
 @media(max-width: 1024px){
   aside{
-    background-color: red;
+    background-color: grey
   }
 }
 
